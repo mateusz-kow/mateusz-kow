@@ -46,3 +46,23 @@ Moje repozytoria skupiają się na automatyzacji przetwarzania danych nieustrukt
 | **[youtube-summarizer](https://github.com/mateusz-kow/youtube-summarizer)** | **Data Eng / NLP** <br/> `Python` `Gemini API` | 📊 Narzędzie CLI do ekstrakcji wiedzy z długich materiałów wideo przy użyciu Google Gemini. Obsługa dużych kontekstów danych. |
 | **[currency-converter](https://github.com/mateusz-kow/currency-converter)** | **Backend Dev** <br/> `Python` `API` `Persistence` | 💸 System konwersji walut w czasie rzeczywistym z trwałym magazynem danych. |
 
+<br/>
+
+---
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+</div>
+
+<p align="center">
+  <a href="https://github.com/mateusz-kow">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mateusz-kow&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mateusz-kow">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusz-kow&layout=compact&theme=radical&langs_count=6&hide_border=true&bg_color=0d1117&title_color=3B82F6" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github.com/mateusz-kow/mateusz-kow/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
